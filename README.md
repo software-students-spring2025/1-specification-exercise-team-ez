@@ -9,8 +9,8 @@
 ## Stakeholder Interviews
 
 ### Interviewees
-- **Nemo Weng**
-- **Jiayi Yu**
+- **Nemo Weng**: Nemo is a competitive swimmer and weightlifter, interested in optimizing his training and performance across both disciplines.
+- **Jiayi Yu**: Jiayi is a marathon runner focused on enhancing her endurance training and nutritional planning through targeted app features.
 
 ### Goals and Needs
 1. **Increase Muscle Mass**: Both interviewees aim to increase their muscle mass, which requires frequent and targeted workouts.
@@ -48,6 +48,18 @@ As an NYU student, I want an app that provides real-time updates on gym crowdedn
 - As a user, I am new to fitness, and I want a coach to guide me rather than working out on my own.
 - As a student, I want to easily reserve spots for gym classes and events through the app so that I can plan my fitness activities without navigating cumbersome websites or dealing with unavailable options.
 
-## Clickable Prototype
-For a direct and interactive experience of our proposed app design, please explore our [NYU Fitness App Clickable Prototype](https://www.figma.com/proto/t6javNAdN0pwJAUzsRkvVV/Team_EZ?node-id=6-11&p=f&t=LMEI7tfMoEbEcJIT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A11).
+## Activity Diagrams
+Here are the activity diagrams that outline the flow of the application processes:
+![Activity Diagram 1](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/UML/UML1.png?raw=true)
+![Activity Diagram 2](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/UML/UML2.png?raw=true)
 
+## Wireframe Diagrams
+Below are the wireframe diagrams that depict the layout and design of the app interface:
+![Wireframe 1](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/Wireframe%20diagrams/WF1.png?raw=true)
+![Wireframe 2](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/Wireframe%20diagrams/WF2.png?raw=true)
+![Wireframe 3](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/Wireframe%20diagrams/WF3.png?raw=true)
+![Wireframe 4](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/Wireframe%20diagrams/WF4.png?raw=true)
+![Wireframe 5](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/Wireframe%20diagrams/WF5.png?raw=true)
+
+## Clickable Prototype
+For a direct and interactive experience of our proposed app design, please explore our [NYU Fitness App Clickable Prototype](https://www.figma.com/proto/t6javNAdN0pwJAUzsRkvVV/Team_EZ?node-id=125-199&t=Aku70EJf9BHB5cXn-1).
