@@ -50,8 +50,6 @@ As an NYU student, I want an app that provides real-time updates on gym crowdedn
 
 ## Activity Diagrams
 
-Here are the activity diagrams that outline the flow of the application processes, matched with the corresponding user stories:
-
 ### User Story: Quick and Up-to-Date Crowd Information
 **As a busy student, I want quick and up-to-date crowd information so that I can decide which gym to visit based on my schedule.**
 ![Activity Diagram 1](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/UML/UML1.png?raw=true "Activity Diagram for Quick and Up-to-Date Crowd Information")
