@@ -49,9 +49,16 @@ As an NYU student, I want an app that provides real-time updates on gym crowdedn
 - As a student, I want to easily reserve spots for gym classes and events through the app so that I can plan my fitness activities without navigating cumbersome websites or dealing with unavailable options.
 
 ## Activity Diagrams
-Here are the activity diagrams that outline the flow of the application processes:
-![Activity Diagram 1](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/UML/UML1.png?raw=true)
-![Activity Diagram 2](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/UML/UML2.png?raw=true)
+
+Here are the activity diagrams that outline the flow of the application processes, matched with the corresponding user stories:
+
+### User Story: Quick and Up-to-Date Crowd Information
+**As a busy student, I want quick and up-to-date crowd information so that I can decide which gym to visit based on my schedule.**
+![Activity Diagram 1](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/UML/UML1.png?raw=true "Activity Diagram for Quick and Up-to-Date Crowd Information")
+
+### User Story: Easily Reserve Spots for Gym Classes and Events
+**As a student, I want to easily reserve spots for gym classes and events through the app so that I can plan my fitness activities without navigating cumbersome websites or dealing with unavailable options.**
+![Activity Diagram 2](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/UML/UML2.png?raw=true "Activity Diagram for Reserving Gym Classes and Events")
 
 ## Wireframe Diagrams
 Below are the wireframe diagrams that depict the layout and design of the app interface:
@@ -62,4 +69,4 @@ Below are the wireframe diagrams that depict the layout and design of the app in
 ![Wireframe 5](https://github.com/software-students-spring2025/1-specification-exercise-team-ez/blob/update-readme/Wireframe%20diagrams/WF5.png?raw=true)
 
 ## Clickable Prototype
-For a direct and interactive experience of our proposed app design, please explore our [NYU Fitness App Clickable Prototype](https://www.figma.com/proto/t6javNAdN0pwJAUzsRkvVV/Team_EZ?node-id=125-199&t=Aku70EJf9BHB5cXn-1).
+For a direct and interactive experience of our proposed app design, please explore our [NYU Fitness App Clickable Prototype](https://www.figma.com/proto/t6javNAdN0pwJAUzsRkvVV/Team_EZ?node-id=0-1&t=5gcxde8NaUlY7PZC-1).
